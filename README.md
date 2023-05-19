@@ -2,7 +2,7 @@
 
 ## ÍNDICE
 
-* [1. Intro](#)
+* [1. Intro](https://github.com/Majorg1226/InterfazdeGoogle-clon/blob/main/README.md#1-intro)
 * [2. Qué construí](#)
 * [3. Objetivo del proyecto](#)
 
