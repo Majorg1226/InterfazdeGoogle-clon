@@ -4,7 +4,7 @@
 
 * [1. Intro](https://github.com/Majorg1226/InterfazdeGoogle-clon/blob/main/README.md#1-intro)
 * [2. Qué construí](https://github.com/Majorg1226/InterfazdeGoogle-clon/blob/main/README.md#2-qu%C3%A9-contru%C3%AD)
-* [3. Objetivo del proyecto](#)
+* [3. Objetivo del proyecto](https://github.com/Majorg1226/InterfazdeGoogle-clon/blob/main/README.md#objetivo-del-proyecto)
 
 ****
 
